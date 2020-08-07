@@ -1,12 +1,19 @@
-# README - Day-Planner
+# README - School Day Planner
 
 **Version 1.0.0**
 
-Timed code quiz with multiple-choice questions.
+School Day Planner customized for school.
 
 ----
 
-This project has being created with the intention to be used at schools for timed quizzes. Student will be giving a time frame to answer all questions. 
+This project has been created with the intent to make student an easier and more dynamic day planner.
+
+### Instructions
+
+- Student will write the tasks for the day between 9 AM to 5 PM.
+- When student click the saved button, the task will be saved to local storage.
+- when student accomplished the task will delete the task and push saved.
+- The task will disappear from the planner.
 
 ---
 
@@ -17,7 +24,7 @@ Link: https://williamsffc.github.io/Day-Planner/
 Screenshot of the project.
 
 <img src="images/Capture.JPG">
-<img src="images/Capture1.JPG">
+<img src="images/Capture2.JPG">
 
 ##  License & Copyright
 
